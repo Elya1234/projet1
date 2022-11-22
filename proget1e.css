@@ -1,0 +1,251 @@
+#logo img{
+    width: 80px;
+    height: 60px;
+}
+#an p {
+    margin: -40px;
+    letter-spacing: 10px;
+text-align: center;
+}
+#ana a{
+text-decoration: none;
+color: black;
+}
+#lun{
+    border: solid #FDB839 15px;
+    background-color: #FDB839;
+}
+#imagedep{
+    margin: 0px;
+    margin-top: 60px;
+}
+#cva{
+    background-image: url(https://crysodenkirk.com/blog/wp-content/uploads/2010/07/cw_ie-300x298.jpg);
+   background-size: 120% 130%;
+   font-size: 20px;
+   margin-left: 10px;
+   width: 30%;
+  text-align: center;
+  line-height: 2;
+    letter-spacing: 5px;
+  margin: 2vh;
+  border-radius: 7px;
+}
+#cva a , #cvab a{
+    text-decoration: none;
+    color: black;
+}
+#no{
+    margin-top: -5px;
+    font-size: 20px;
+    text-align: center;
+}
+#cvab{
+    background-image: url(https://crysodenkirk.com/blog/wp-content/uploads/2010/07/cw_ie-300x298.jpg);
+    background-size: 120% 130%;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 127vh;
+    line-height: 2;
+    letter-spacing: 5px;
+    margin-top: -13vh;
+    border-radius: 7px;
+}
+#lig{
+    background-color: #FDB839;
+   margin-top: -10px;
+}
+#ca{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 195px;
+height: 262px;
+left: 100px;
+top: 950px;
+
+background: rgba(217, 217, 217, 0.51);
+border: 1px solid #000000;
+border-radius: 2px 5px;
+} 
+#adjctif{
+text-align:center;
+ background-color: rgb(94, 94, 141);
+height: 70px;
+margin-top: -4px;}
+#qu{
+    text-align: center;
+    margin-top: -70px;
+}
+#cb{
+    box-sizing: border-box;
+    position: absolute;
+    width: 195px;
+    height: 262px;
+    left: 300px;
+    top: 950px;
+    background: rgba(217, 217, 217, 0.51);
+    border: 1px solid #000000;
+    border-radius: 2px 5px;
+    } 
+    #cc{
+        box-sizing: border-box;
+        position: absolute;
+        width: 195px;
+        height: 262px;
+        left: 500px;
+        top: 950px;
+        background: rgba(217, 217, 217, 0.51);
+        border: 1px solid #000000;
+        border-radius: 2px 5px;
+        } 
+        #cd{
+            box-sizing: border-box;
+            position: absolute;
+            width: 195px;
+            height: 262px;
+            left: 700px;
+            top: 950px;
+            background: rgba(217, 217, 217, 0.51);
+            border: 1px solid #000000;
+            border-radius: 2px 5px;
+            } 
+            #ce{
+                box-sizing: border-box;
+                position: absolute;
+                width: 195px;
+                height: 262px;
+                left: 900px;
+                top: 950px;
+                background: rgba(217, 217, 217, 0.51);
+                border: 1px solid #000000;
+                border-radius: 2px 5px;
+                } 
+                #pacv{
+                    padding-top: 500px;
+                }
+
+
+    /*2éme carte*/
+
+                #caa{
+
+                    box-sizing: border-box;
+                    
+                    position: absolute;
+                    width: 195px;
+                    height: 262px;
+                    left: 100px;
+                    top: 1280px;
+                    
+                    background: rgba(217, 217, 217, 0.51);
+                    border: 1px solid #000000;
+                    border-radius: 2px 5px;
+                    } 
+                #cbb{
+                    box-sizing: border-box;
+                    position: absolute;
+                    width: 195px;
+                    height: 262px;
+                    left: 300px;
+                    top: 1280px;
+                    background: rgba(217, 217, 217, 0.51);
+                    border: 1px solid #000000;
+                    border-radius: 2px 5px;
+                    } 
+                    #ccc{
+                        box-sizing: border-box;
+                        position: absolute;
+                        width: 195px;
+                        height: 262px;
+                        left: 500px;
+                        top: 1280px;
+                        background: rgba(217, 217, 217, 0.51);
+                        border: 1px solid #000000;
+                        border-radius: 2px 5px;
+                        } 
+                        #cdd{
+                            box-sizing: border-box;
+                            position: absolute;
+                            width: 195px;
+                            height: 262px;
+                            left: 700px;
+                            top: 1280px;
+                            background: rgba(217, 217, 217, 0.51);
+                            border: 1px solid #000000;
+                            border-radius: 2px 5px;
+                            } 
+                            #cee{
+                                box-sizing: border-box;
+                                position: absolute;
+                                width: 195px;
+                                height: 262px;
+                                left: 900px;
+                                top: 1280px;
+                                background: rgba(217, 217, 217, 0.51);
+                                border: 1px solid #000000;
+                                border-radius: 2px 5px;
+                                } 
+                                #lem{
+                                   margin-top: 300px;
+                                }
+                                #carg{
+                                    box-sizing: border-box;
+                                    position: absolute;
+                                    width: 195px;
+                                    height: 262px;
+                                    left: 100px;
+                                    top: 1610px;
+                                    background: rgba(217, 217, 217, 0.51);
+                                    border: 1px solid #000000;
+                                    border-radius: 2px 5px;
+                                }
+                                #lemb{
+                                    margin-left: 800px;
+                                    margin-top: -320px;
+                                }
+                                #carge{
+                                    box-sizing: border-box;
+                                    position: absolute;
+                                    width: 195px;
+                                    height: 262px;
+                                    left: 900px;
+                                    top: 1610px;
+                                    background: rgba(217, 217, 217, 0.51);
+                                    border: 1px solid #000000;
+                                    border-radius: 2px 5px;
+                                }
+                                #con #logo{
+                                    margin: 20px;
+                                }
+                                #con{
+                                    position: absolute;
+                                    top: 1880px;
+                                    background-color:  #163D5E;
+                                    width: 100%;
+                                }
+                                #conth{
+                                  margin-top: -80px;
+                                }
+                                #conthu{
+                                    margin-top: -60px;
+                                  }
+                                  #cor{
+                                    text-align: center;
+                                    font-size: 30px;
+                                    font-weight: bold;
+                                  }
+                                  #cor a , #coru a{
+                                    color: #000000;
+                                    text-decoration: none;
+                                  }
+                                  #coru{
+                                    margin-left: 500px;
+                                    margin-top: -65px;
+                                  }
+                                  #coru{
+                                    font-size: 30px;
+                                    font-weight: bold;
+                                  }
